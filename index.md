@@ -9,7 +9,7 @@ title: Home
 
 ORCID: [0000-0003-1455-3549](https://orcid.org/0000-0003-1455-3549) · Email: [anjelra1211@gmail.com](mailto:anjelra1211@gmail.com)
 
-**Jump to:** [About](#about) · [Diversity, Equity & Inclusion](#diversity-equity--inclusion) · [Research](#research) · [Education](#education) · [Publications](#publications) · [Conference Presentations](#conference-presentations) · [Teaching](#teaching) · [Awards](#awards--fellowships) · [Service](#service) · [Contact](#contact)
+**Jump to:** [About](#about) · [Diversity, Equity & Inclusion](#diversity-equity--inclusion) · [Research](#research) · [Education](#education) · [Publications](#publications) · [Conference Presentations](#conference-presentations) · [Teaching](#teaching) · [Awards](#awards--fellowships) · [Service](#service) · [Children's Books](#public-engagement--childrens-books) · [Contact](#contact)
 
 ---
 
@@ -141,6 +141,27 @@ World Regional Geography (incl. as Co-Professor) · Human Geography (GEOG102, co
 
 - Invited Peer Reviewer for multiple academic journals (2021–2025)
 - Member, [Embodiment Lab](https://sites.udel.edu/geog-bodylab/), Dept. of Geography, University of Delaware (2017–present)
+
+---
+
+## Public Engagement / Children's Books
+
+I also translate questions of spatial justice and inclusive design for a much younger audience.
+
+<p align="center">
+  <img src="assets/img/book-cover-urban-planning-workbook.png" alt="Cover of My First Urban Planning Workbook: A City Detective Activity Book for Grades 3-5, by Nari Kim" width="280">
+</p>
+
+**My First Urban Planning Workbook: A City Detective Activity Book for Grades 3–5** *(forthcoming, self-published via Amazon KDP)*
+
+Join Tessa and Mom on a city adventure! Together, kids explore neighborhoods, parks, streets, and cities to discover what makes a place safe, green, welcoming, and fair for everyone — using stories, activities, and a final city-design project to build a better future, "Ever Blue Land." Inside the workbook, kids will:
+
+- explore space, place, zoning, and walkability
+- notice shade, accessibility, and fairness
+- think about people of all ages and abilities
+- design their very own dream city, Ever Blue Land
+
+The book adapts the same spatial-justice and accessibility questions at the heart of my academic research — who gets included or excluded by the design of public space — into hands-on activities for grades 3–5.
 
 ---
 
